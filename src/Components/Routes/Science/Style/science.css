@@ -1,0 +1,10 @@
+#SBODY{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url('../assets/bg.svg');
+    padding-top: 2%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

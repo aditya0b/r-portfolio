@@ -1,0 +1,20 @@
+.Clock{
+    width: 20%;
+    height: 100%;
+    font-family: 'Orbitron', 'sans-serif';
+    font-size: 2vw;
+    text-align: center;
+}
+
+#NAVBAR{
+    z-index: 2;
+}
+
+@media screen and (max-width:990px) {
+    .Clock{
+        width: 100%;
+    }
+    #CSubmit{
+        width: 100%;
+    }
+}

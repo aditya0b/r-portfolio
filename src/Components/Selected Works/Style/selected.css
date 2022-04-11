@@ -1,0 +1,29 @@
+.Mainworks{
+    width: 100%;
+    height: 75vh;
+    background-image: url('./assets/bg.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.topworks{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#selected_heading{
+    color: #252525;
+}
+
+.cardscontent{
+    width: 100%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

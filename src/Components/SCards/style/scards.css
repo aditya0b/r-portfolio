@@ -1,0 +1,17 @@
+.Smain {
+    width: 90%;
+    height: 10%;
+    display: flex;
+    align-items: center;
+    /* background-color: rgba(86, 61, 124, 0.15);
+    border: 1px solid rgba(86, 61, 124, 0.15); */
+    padding: 2%;
+    text-decoration: none;
+    border-radius: 1vh;
+    margin: 1vh;
+    box-shadow: 0.5vw 0.5vw 0.5vw rgba(0, 0, 0, 0.5);
+    transition: transform 200ms;
+}
+.Smain:hover{
+    transform: scale(1.05);
+}
