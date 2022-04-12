@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.abBody {
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.ableft {
+    width: 60%;
+    height: 100%;
+    position: relative;
+}
+
+.abright {
+    width: 40%;
+    height: 100%;
+    position: relative;
+    background-repeat: no-repeat;
+}
+
+.abheadimg{
+    width: 50px;
+    height: 50px;
+    background-image: url('../assets/right.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.abtop {
+    width: 100%;
+    height: 20%;
+    position: relative;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.abbottom {
+    width: 100%;
+    height: 80%;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}

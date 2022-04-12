@@ -3,6 +3,7 @@ import 'swiper/css';
 import { NavBar } from "./Components/Header/Header";
 import { Introduction } from "./Components/Introduction/Intro";
 import { SelectedWorks } from "./Components/Selected Works/selected";
+import { Abme } from "./Components/About Me/abme";
 import './index.css'
 const Structure = () => {
     return (
@@ -12,6 +13,7 @@ const Structure = () => {
                 <Introduction />
             </div>
             <SelectedWorks />
+            <Abme />
         </>
     )
 }
