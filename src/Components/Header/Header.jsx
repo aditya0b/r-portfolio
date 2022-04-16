@@ -33,7 +33,7 @@ const NavBar = () => {
                                 }} >Projects</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="https://aditya0bagari.blogspot.com/">Blogs</a>
+                                <a class="nav-link" href="/blogs">Blogs</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" onClick={() => {

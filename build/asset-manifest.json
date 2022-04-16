@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.49a63b55.css",
-    "main.js": "/static/js/main.1b45bcb4.js",
+    "main.css": "/static/css/main.3fdaa93f.css",
+    "main.js": "/static/js/main.7794849f.js",
     "static/media/bg-pc.gif": "/static/media/bg-pc.4783f7dde0dfdd25b46e.gif",
     "static/media/bg.gif": "/static/media/bg.e8c5e0a6791aafec563d.gif",
     "static/media/right.gif": "/static/media/right.8fc732da3661dfa5ea95.gif",
@@ -15,11 +15,11 @@
     "static/media/at-solid.svg": "/static/media/at-solid.2301a1a7fedeeecb08b225499a4f891f.svg",
     "static/media/pinterest-brands.svg": "/static/media/pinterest-brands.4e4038eb8bcc480f99e50a5a16649dea.svg",
     "static/media/stackoverflow-brands.svg": "/static/media/stackoverflow-brands.d8ea06107518aeec2b654ea5267157e3.svg",
-    "main.49a63b55.css.map": "/static/css/main.49a63b55.css.map",
-    "main.1b45bcb4.js.map": "/static/js/main.1b45bcb4.js.map"
+    "main.3fdaa93f.css.map": "/static/css/main.3fdaa93f.css.map",
+    "main.7794849f.js.map": "/static/js/main.7794849f.js.map"
   },
   "entrypoints": [
-    "static/css/main.49a63b55.css",
-    "static/js/main.1b45bcb4.js"
+    "static/css/main.3fdaa93f.css",
+    "static/js/main.7794849f.js"
   ]
 }

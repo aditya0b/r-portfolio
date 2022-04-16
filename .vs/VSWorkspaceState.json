@@ -4,8 +4,10 @@
     "\\public",
     "\\src",
     "\\src\\Components",
-    "\\src\\Components\\Header"
+    "\\src\\Components\\Header",
+    "\\src\\Components\\Routes",
+    "\\src\\Components\\Routes\\Project-Blogs"
   ],
-  "SelectedNode": "\\.gitignore",
+  "SelectedNode": "\\src\\Components\\Routes\\Project-Blogs\\blogs.jsx",
   "PreviewInSolutionExplorer": false
 }
