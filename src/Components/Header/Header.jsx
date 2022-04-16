@@ -33,10 +33,12 @@ const NavBar = () => {
                                 }} >Projects</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Blogs</a>
+                                <a class="nav-link" href="https://aditya0bagari.blogspot.com/">Blogs</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">About Me</a>
+                                <a class="nav-link" onClick={() => {
+                                    document.querySelector('.abBody').scrollIntoView()
+                                }} >About Me</a>
                             </li>
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">

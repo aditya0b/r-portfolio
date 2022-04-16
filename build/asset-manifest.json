@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.49a63b55.css",
+    "main.js": "/static/js/main.1b45bcb4.js",
+    "static/media/bg-pc.gif": "/static/media/bg-pc.4783f7dde0dfdd25b46e.gif",
+    "static/media/bg.gif": "/static/media/bg.e8c5e0a6791aafec563d.gif",
+    "static/media/right.gif": "/static/media/right.8fc732da3661dfa5ea95.gif",
+    "static/media/Digestive Glands.pdf": "/static/media/Digestive Glands.845098a31ead269176ac.pdf",
+    "static/media/bg.svg": "/static/media/bg.4f58e1dd6c5464fe542b.svg",
+    "static/media/quora.svg": "/static/media/quora.bfb8f681b275b99b80438f6a9311aff3.svg",
+    "static/media/science.svg": "/static/media/science.a6f0125f9346f5b39e061380b938ed4f.svg",
+    "static/media/github-brands.svg": "/static/media/github-brands.19d94564e60724198e3d3ecf00ed5446.svg",
+    "index.html": "/index.html",
+    "static/media/discord-brands.svg": "/static/media/discord-brands.18d397e426f3ce95be268362fddf6b04.svg",
+    "static/media/at-solid.svg": "/static/media/at-solid.2301a1a7fedeeecb08b225499a4f891f.svg",
+    "static/media/pinterest-brands.svg": "/static/media/pinterest-brands.4e4038eb8bcc480f99e50a5a16649dea.svg",
+    "static/media/stackoverflow-brands.svg": "/static/media/stackoverflow-brands.d8ea06107518aeec2b654ea5267157e3.svg",
+    "main.49a63b55.css.map": "/static/css/main.49a63b55.css.map",
+    "main.1b45bcb4.js.map": "/static/js/main.1b45bcb4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49a63b55.css",
+    "static/js/main.1b45bcb4.js"
+  ]
+}
