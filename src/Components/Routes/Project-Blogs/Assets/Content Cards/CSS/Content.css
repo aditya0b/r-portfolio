@@ -1,0 +1,11 @@
+.BC-Body{
+    width: 80%;
+    height: 90%;
+    border-radius: 1vh;
+    transition: transform 200ms;
+}
+
+.BC-Body:hover{
+    transform: scale(1.05);
+    box-shadow: 1vw 1vw 1vw rgba(0, 0, 0, 0.5);
+}

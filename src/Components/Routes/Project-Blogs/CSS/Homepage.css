@@ -58,3 +58,12 @@
     align-items: center;
     justify-content: center;
 }
+.B-Bottom{
+    width: 100%;
+    height: 60%;
+    margin-top: 1vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
