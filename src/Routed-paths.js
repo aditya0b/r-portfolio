@@ -10,7 +10,7 @@ import { Mindmaps } from './Components/Routes/Mindmaps/Mindmaps'
 import { Models } from "./Components/Routes/Models/Models";
 import { Modules } from "./Components/Routes/Modules/Modules";
 import { Activities } from "./Components/Routes/Activities/Activities";
-import { Blogs } from "./Components/Routes/Project-Blogs/Blogs";
+import { EarthDay } from "./Components/Routes/EarthDay/ED";
 const Paths = () => {
     return(
         <>
@@ -25,7 +25,7 @@ const Paths = () => {
                 <Route path="/science/models" element={<Models />}/>
                 <Route path="/science/modules" element={<Modules />}/>
                 <Route path="/science/activities" element={<Activities />} />
-                <Route path="/blogs" element={<Blogs />} />
+                <Route path="/science/earthday" element={<EarthDay />} />
             </Routes>
         </>
     )

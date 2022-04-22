@@ -1,6 +1,0 @@
-const ContentData = [
-    {
-    }
-]
-
-export {ContentData}

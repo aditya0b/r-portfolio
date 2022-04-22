@@ -32,14 +32,14 @@ const NavBar = () => {
                                     document.querySelector('#SCROLLMAINWORKS').scrollIntoView()
                                 }} >Projects</a>
                             </li>
-                            <li class="nav-item">
+                            {/* <li class="nav-item">
                                 <a class="nav-link" href="/blogs">Blogs</a>
-                            </li>
-                            <li class="nav-item">
+                            </li> */}
+                            {/* <li class="nav-item">
                                 <a class="nav-link" onClick={() => {
                                     document.querySelector('.abBody').scrollIntoView()
                                 }} >About Me</a>
-                            </li>
+                            </li> */}
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                     More
